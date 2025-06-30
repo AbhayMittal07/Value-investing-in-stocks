@@ -1,9 +1,6 @@
 
----
-
 ### 📁 `fintech2.ipynb` — README.md
 
-```markdown
 # FinTech Sector-Wise Analysis
 
 This notebook builds on the initial dataset and performs more detailed, sector-based analysis of FinTech companies.
